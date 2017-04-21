@@ -16,5 +16,7 @@ class Triangle extends Shape{
 
 
 
-Shape.ShapeTipos.Triangle = Triangle;
+Shape.tipo.Triangle = Triangle;
+
 module.exports = { Triangle: Triangle};
+
