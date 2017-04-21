@@ -1,6 +1,6 @@
 {
   "name": "ull-shape-triangulo-lucas-ivan-miguel-jairo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,9 @@
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-triangulo#readme",
   "devDependencies": {
     "ull-shape-lucas-ivan-miguel-jairo": "^1.0.1"
+  },
+  "dependencies": {
+    "ull-shape-lucas-ivan-miguel-jairo": "^1.0.1"
   }
+  
 }
