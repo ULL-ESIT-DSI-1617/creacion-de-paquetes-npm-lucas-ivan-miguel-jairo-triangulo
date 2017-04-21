@@ -1,26 +1,28 @@
 {
   "name": "ull-shape-triangulo-lucas-ivan-miguel-jairo",
-  "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.7",
+  "description": "Trianulo",
+  "main": "triangulo.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha --require should"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-triangulo.git"
   },
-  "author": "",
+  "author": "lucas-ivan-miguel-jairo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-triangulo/issues"
   },
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-triangulo#readme",
-  "devDependencies": {
-    "ull-shape-lucas-ivan-miguel-jairo": "^1.0.1"
-  },
+  
   "dependencies": {
-    "ull-shape-lucas-ivan-miguel-jairo": "^1.0.1"
+    "ull-shape-lucas-ivan-miguel-jairo": "^1.0.0",
+    "gulp-shell": "^0.6.3",
+    "mocha": "^2.3.3",
+    "should": "^7.1.1"
   }
+  
   
 }
