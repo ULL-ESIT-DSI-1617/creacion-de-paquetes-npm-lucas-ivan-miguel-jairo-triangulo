@@ -17,7 +17,7 @@ require('ull-Triangulo-lucas-ivan-miguel-jairo')
 * [Enlace gh-pages Triangle](https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-triangulo/)
 * [Enlace gh-pages Rectangle](https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-rectangulo/)
 
-## Enlaces a repositorio¡
+## Enlaces a los repositorios
 * [Enlace a repositorio del paquete ull-shape-lucas-ivan-miguel-jairo](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo)
 * [Enlace a repositorio del paquete ull-shape-triangulo-lucas-ivan-miguel-jairo](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-triangulo)
 * [Enlace a repositorio del paquete ull-shape-cuadrado-lucas-ivan-miguel-jairo](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-cuadrado)
