@@ -18,7 +18,10 @@ class Triangle extends Shape{
         constructor(options){
             super(options); 
         }
-        /* @param {function?} done Callback function to execute when finished.*/
+       /**
+         * Esta funcion calcula el radio de un Triangulo.
+         * @returns {area} Retorna el calculo del area de un triangulo.
+         */
         area(){
            var area = .5 * this.width * this.height;
            return area;
